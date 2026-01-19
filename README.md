@@ -24,6 +24,7 @@ hanshu(kstep=600, alpha=0.01, gamma=5, theta=1, beta=10, gamma_trans=1, gamma_ir
 Input Data
 ```bash
 The algorithm is configured with built-in data for 23 regions, including:
+
 Cultivated land area
 Crop water demands
 Transportation distances
@@ -43,4 +44,4 @@ If you use this code in your research, please cite:
 [Your Paper Title]. [Authors]. [Year]. [Journal/Conference Name].
 
 License
-This project is licensed under the MIT License.
+This project is licensed under the GPL 3.0 License.
